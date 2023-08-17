@@ -13,7 +13,7 @@ Things included are:
 
 * `Ruff`:  
 
-Run `make lint` which runs `ruff check`
+Run `make lint` which runs `ruff check`.  You can find out more info on [Ruff here](https://github.com/astral-sh/ruff).
 
 * `Dockerfile`
 
