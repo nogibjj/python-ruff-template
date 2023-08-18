@@ -1,6 +1,10 @@
 [![CI](https://github.com/nogibjj/python-template/actions/workflows/cicd.yml/badge.svg)](https://github.com/nogibjj/python-template/actions/workflows/cicd.yml)
 ## Template for Python projects with RUFF linter
 
+![1 15_rust_built_python_tools](https://github.com/nogibjj/python-ruff-template/assets/58792/db5f7bda-a977-4c67-acbe-a70fe034fbdf)
+
+
+
 1. First thing to do on launch is to open a new shell and verify virtualenv is sourced.
 
 Things included are:
@@ -13,7 +17,7 @@ Things included are:
 
 * `Ruff`:  
 
-Run `make lint` which runs `ruff check`
+Run `make lint` which runs `ruff check`.  You can find out more info on [Ruff here](https://github.com/astral-sh/ruff).
 
 * `Dockerfile`
 
