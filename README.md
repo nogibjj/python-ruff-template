@@ -27,5 +27,10 @@ Run `make lint` which runs `ruff check`.  You can find out more info on [Ruff he
 
 * A base set of libraries for devops and web
 
-* `githubactions` 
+* `githubactions`
+
+## References
+
+![Uploading 1.1-function-essence-of-programming.png…]()
+
 
